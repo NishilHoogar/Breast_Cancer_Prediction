@@ -88,8 +88,3 @@ Predict the cancer if it is benign or malignant
 Using the Breast Cancer Database, we will create a classifier that can help diagnose patients and predict the likelihood of a breast cancer.
 Used various Machine Learning Algorithms to analyse and predict.
 Used 30 different columns to understand the data.
-
-# Project Demo Video:
-https://drive.google.com/file/d/1oU4ohQvTO6msIOe4ltxSGpo6q77MlsD8/view?usp=drivesdk
-
-By group - server_monks24
