@@ -29,7 +29,7 @@ Many breast cancer symptoms are invisible and not noticeable without a professio
 
 - A Change In How The Breast Or Nipple Looks Or Feels
   - Nipple tenderness or a lump or thickening in or near the breast or underarm area
-  - - A change in the skin texture or an enlargement of pores in the skin of the breast  (some describe this as similar to an orange peel’s texture)
+  - A change in the skin texture or an enlargement of pores in the skin of the breast  (some describe this as similar to an orange peel’s texture)
   - A lump in the breast (It’s important to remember that all lumps should be investigated by a healthcare professional, but not all lumps are cancerous.)
 - A Change In The Breast Or Nipple Appearance
   - Any unexplained change in the size or shape of the breast
